@@ -1,0 +1,16 @@
+PODS:
+  - PMFramework (1.0.0)
+
+DEPENDENCIES:
+  - PMFramework (from `../PMFramework`)
+
+EXTERNAL SOURCES:
+  PMFramework:
+    :path: "../PMFramework"
+
+SPEC CHECKSUMS:
+  PMFramework: 2c0e94d1fd0cb4cfc2095517a6707c23cecdc572
+
+PODFILE CHECKSUM: f230b9903a0c81f52bcd34b2495460c602e8b8be
+
+COCOAPODS: 1.5.3

@@ -1,7 +1,7 @@
 
 
-/*
 
+/*
 import Foundation
 import UIKit
 import AVFoundation
@@ -480,8 +480,6 @@ extension UIViewController {
         self.present(alertController, animated: true, completion: nil)
     }
     
-    
-    
 }
 
 // animation links:-
@@ -508,6 +506,6 @@ extension NSMutableAttributedString {
     }
 }
  
- */
 
 
+*/

@@ -1,0 +1,6 @@
+framework module PMFramework {
+  umbrella header "PMFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
